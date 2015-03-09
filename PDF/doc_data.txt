@@ -1,0 +1,11 @@
+InfoKey: Creator
+InfoValue: JasperReports (OPobrazac)
+InfoKey: Producer
+InfoValue: iText 2.1.5 (by lowagie.com)
+InfoKey: ModDate
+InfoValue: D:20150211102121+01'00'
+InfoKey: CreationDate
+InfoValue: D:20150211102121+01'00'
+PdfID0: fe5fafe070df7098c127c45d9f39c85c
+PdfID1: aa4dc88edf22b9ea40b8d7b71c91e6
+NumberOfPages: 12
